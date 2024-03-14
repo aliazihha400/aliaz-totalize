@@ -1,6 +1,6 @@
 {
   "name": "aliaz-totalize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Totalize efficiently totals numerical data. It simplifies total calculation tasks, offering efficient solutions for totaling your numeric data sets.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,16 @@
   "dependencies": {
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
-    "aliaz-totalize": "^1.0.0"
+    "aliaz-totalize": "^1.0.0",
+    "ray_cumulo": "^1.0.0",
+    "pros_zena_up": "^1.0.0",
+    "totaltrending": "^1.0.0",
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+
   },
   "repository": {
     "type": "git",
